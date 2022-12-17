@@ -1,6 +1,6 @@
 
-import java.applet.*                                                                                    ;
-import java.awt.*;
+import java.applet.*                                                                                     ;
+import java.awt.*; 
 import java.awt.event.*;
 
 public class Color_Changer extends Applet implements AdjustmentListener

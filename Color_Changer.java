@@ -2,9 +2,7 @@
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
-/*<applet code="vyon100" width=600 height=600>
- </applet>
- */
+
 public class Color_Changer extends Applet implements AdjustmentListener
 { Scrollbar hsb1,hsb2,hsb3;
   int v1,v2,v3;
